@@ -1,12 +1,16 @@
-## Hi there 👋
+# KayodaNetwork :globe_with_meridians:
 
-<!--
+Welcome to the official Github Organization of KayodaNetwork! We're a dedicated Minecraft Network. Our aim is to provide an unparalleled Minecraft gaming experience!
 
-**Here are some ideas to get you started:**
+## Our Values :dart:
+1. **Community:** We believe in the power of community, and hence, user engagement is at the heart of our network.
+2. **Innovation:** We consistently strive for creating unique and memorable experiences through constant improvements and updates.
+3. **Quality:** Quality gameplay is a promise we always deliver.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Connect With Us :mailbox:
+Join our Discord server, follow us on Twitter, or visit our website for updates and news about the network!
+
+[![Discord](https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord)](https://discord.gg/9xjQve4buc)
+[![Mail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=microsoft-outlook)](mailto:it@asna.host)
+
+# Happy Mining!
