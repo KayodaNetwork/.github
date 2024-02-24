@@ -10,7 +10,7 @@ Welcome to the official Github Organization of KayodaNetwork! We're a dedicated 
 ## Connect With Us :mailbox:
 Join our Discord server, follow us on Twitter, or visit our website for updates and news about the network!
 
-[![Discord](https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord)](https://discord.gg/fTTZzmJVS3)
-[![Mail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=microsoft-outlook)](mailto:it@asna.host)
+[![Discord](https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord)](https://discord.gg/UVbuuavsUs)
+[![Mail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=microsoft-outlook)](mailto:it@kayoda.de)
 
 # Happy Mining!
